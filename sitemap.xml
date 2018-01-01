@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://jamessann.github.io/expressions/top-5-films-of-2017/</loc>
+    <lastmod>2017-01-29T12:42:03+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jamessann.github.io/expressions/top-5-tv-shows-of-2017/</loc>
+    <lastmod>2017-01-28T18:42:03+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jamessann.github.io/expressions/top-5-albums-of-2017/</loc>
+    <lastmod>2017-01-27T14:42:03+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jamessann.github.io/expressions/top-5-tv-shows-of-2016/</loc>
+    <lastmod>2017-01-07T15:28:35+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jamessann.github.io/expressions/top-5-albums-of-2016/</loc>
+    <lastmod>2017-01-02T14:42:03+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jamessann.github.io/expressions/top-5-films-of-2016/</loc>
+    <lastmod>2016-12-28T15:53:48+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jamessann.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jamessann.github.io/expressions/</loc>
+    <lastmod>2017-01-29T12:42:03+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jamessann.github.io/tags/films/</loc>
+    <lastmod>2016-12-28T15:53:48+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jamessann.github.io/tags/films-2017/</loc>
+    <lastmod>2017-01-29T12:42:03+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jamessann.github.io/</loc>
+    <lastmod>2017-01-29T12:42:03+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jamessann.github.io/tags/music/</loc>
+    <lastmod>2017-01-02T14:42:03+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jamessann.github.io/tags/music-2017/</loc>
+    <lastmod>2017-01-27T14:42:03+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jamessann.github.io/tags/</loc>
+    <lastmod>2016-12-28T15:53:48+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jamessann.github.io/tags/tv/</loc>
+    <lastmod>2017-01-07T15:28:35+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jamessann.github.io/tags/tv-2017/</loc>
+    <lastmod>2017-01-28T18:42:03+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

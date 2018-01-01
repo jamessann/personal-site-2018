@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Films on James Sann&#39;s personal website</title>
+    <link>https://jamessann.github.io/tags/films/</link>
+    <description>Recent content in Films on James Sann&#39;s personal website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Dec 2016 15:53:48 +1100</lastBuildDate>
+    
+	<atom:link href="https://jamessann.github.io/tags/films/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Top 5 Films of 2016</title>
+      <link>https://jamessann.github.io/expressions/top-5-films-of-2016/</link>
+      <pubDate>Wed, 28 Dec 2016 15:53:48 +1100</pubDate>
+      
+      <guid>https://jamessann.github.io/expressions/top-5-films-of-2016/</guid>
+      <description>5 Top Films of 2016 What a cracking year it was for cinema! Unfortunately I didn&amp;rsquo;t get the chance to see everything released in Australia in 2016 but these were the special few that stuck with me.</description>
+    </item>
+    
+  </channel>
+</rss>

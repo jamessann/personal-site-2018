@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on James Sann&#39;s personal website</title>
+    <link>https://jamessann.github.io/tags/</link>
+    <description>Recent content in Tags on James Sann&#39;s personal website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Dec 2016 15:53:48 +1100</lastBuildDate>
+    
+	<atom:link href="https://jamessann.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Films</title>
+      <link>https://jamessann.github.io/tags/films/</link>
+      <pubDate>Wed, 28 Dec 2016 15:53:48 +1100</pubDate>
+      
+      <guid>https://jamessann.github.io/tags/films/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Films 2017</title>
+      <link>https://jamessann.github.io/tags/films-2017/</link>
+      <pubDate>Sun, 29 Jan 2017 12:42:03 +1100</pubDate>
+      
+      <guid>https://jamessann.github.io/tags/films-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>https://jamessann.github.io/tags/music/</link>
+      <pubDate>Mon, 02 Jan 2017 14:42:03 +1100</pubDate>
+      
+      <guid>https://jamessann.github.io/tags/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Music 2017</title>
+      <link>https://jamessann.github.io/tags/music-2017/</link>
+      <pubDate>Fri, 27 Jan 2017 14:42:03 +1100</pubDate>
+      
+      <guid>https://jamessann.github.io/tags/music-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tv</title>
+      <link>https://jamessann.github.io/tags/tv/</link>
+      <pubDate>Sat, 07 Jan 2017 15:28:35 +1100</pubDate>
+      
+      <guid>https://jamessann.github.io/tags/tv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tv 2017</title>
+      <link>https://jamessann.github.io/tags/tv-2017/</link>
+      <pubDate>Sat, 28 Jan 2017 18:42:03 +1100</pubDate>
+      
+      <guid>https://jamessann.github.io/tags/tv-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
